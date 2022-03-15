@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/germ430/germ430public.git
+
+[submodule "themes/digitalgarden"]
+	path = themes/digitalgarden
+	url = https://github.com/germ430/digital-garden-hugo-theme.git
