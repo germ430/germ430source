@@ -1,4 +1,4 @@
-baseURL = 'http://germ430.github.io/'
+baseURL = 'http://germ430.github.io/germ430public'
 languageCode = 'en-us'
 title = 'GERM 430: Der Holocaust | Winter 2022'
 theme = 'digitalgarden'
