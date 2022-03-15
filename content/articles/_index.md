@@ -1,3 +1,0 @@
----
-title: Teile der Unterrichte
----
